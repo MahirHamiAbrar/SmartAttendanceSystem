@@ -1,5 +1,0 @@
-2024-09-26 18:23:10,091 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
-2024-09-26 18:23:10,091 - INFO - response = {'code': 5, 'name': 'Japan Sir'}
-2024-09-26 18:23:12,167 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
-2024-09-26 18:23:12,167 - INFO - response = {'code': -5, 'name': 'Japan Sir'}
-2024-09-26 18:23:12,167 - INFO - Teacher checked out: Japan Sir

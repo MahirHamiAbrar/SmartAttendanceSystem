@@ -1,3 +1,0 @@
-2024-09-26 14:02:33,654 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
-2024-09-26 14:02:33,655 - INFO - response = {'code': <SASCode.Holiday: 501>}
-2024-09-26 14:02:33,655 - ERROR - Unexpected error in main loop: Object of type SASCode is not JSON serializable

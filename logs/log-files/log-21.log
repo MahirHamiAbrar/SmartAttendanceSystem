@@ -1,9 +1,0 @@
-2024-09-26 18:08:09,993 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
-2024-09-26 18:08:09,994 - DEBUG - 
-	class_start = datetime.time(9, 50)
-	class_end = datetime.time(10, 40)
-2024-09-26 18:08:09,994 - DEBUG - 
-	c_timedelta = datetime.timedelta(seconds=36660)
-	start_timedelta = datetime.timedelta(seconds=35400)
-	time_diff_start = datetime.timedelta(seconds=1260)
-2024-09-26 18:08:09,994 - INFO - response = {'code': -1}
