@@ -5,4 +5,4 @@ __pycache__
 
 MailingSystem/credentials/*.json
 logs/attendance_reports/*/
-logs/log-files/*/
+logs/log-files/*.log
