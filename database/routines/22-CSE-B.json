@@ -1,0 +1,189 @@
+{
+    "sat" : {
+        "times": [ [3, 0], [5, 30] ],
+        "classes": [
+            {
+                "course": ["CSE", 1201],
+                "instructor": "SZM",
+                "room": 203,
+                "time": {
+                    "start": [9, 50],
+                    "stop": [10, 40],
+                    "time_format": 24
+                }
+            },
+            {
+                "course": ["MATH", 1213],
+                "instructor": "TTP",
+                "room": 203,
+                "time": {
+                    "start": [3, 51],
+                    "stop": [4, 40],
+                    "time_format": 24
+                }
+            },
+            {
+                "course": ["PHY", 1213],
+                "instructor": "AAM",
+                "room": 203,
+                "time": {
+                    "start": [4, 40],
+                    "stop": [5, 30],
+                    "time_format": 24
+                }
+            }
+        ]
+    },
+
+    "sun" : {
+        "times": [ [10, 50], [13, 20] ],
+        "classes": [
+            {
+                "course": ["CSE", 1201],
+                "instructor": "SZM",
+                "room": 404,
+                "time": {
+                    "start": [10, 50],
+                    "stop": [11, 40],
+                    "time_format": 24
+                }
+            },
+            {
+                "course": ["MATH", 1213],
+                "instructor": "TTP",
+                "room": 203,
+                "time": {
+                    "start": [11, 40],
+                    "stop": [12, 30],
+                    "time_format": 24
+                }
+            },
+            {
+                "course": ["PHY", 1213],
+                "instructor": "AAM",
+                "room": 203,
+                "time": {
+                    "start": [12, 30],
+                    "stop": [1, 20],
+                    "time_format": 24
+                }
+            }
+        ]
+    },
+
+    "mon" : {
+        "times": [ [10, 50], [13, 20] ],
+        "classes": [
+            {
+                "course": ["CSE", 1201],
+                "instructor": "SZM",
+                "room": 202,
+                "time": {
+                    "start": [10, 50],
+                    "stop": [11, 40],
+                    "time_format": 24
+                }
+            },
+            {
+                "course": ["MATH", 1213],
+                "instructor": "TTP",
+                "room": 202,
+                "time": {
+                    "start": [11, 40],
+                    "stop": [12, 30],
+                    "time_format": 24
+                }
+            },
+            {
+                "course": ["PHY", 1213],
+                "instructor": "AAM",
+                "room": 202,
+                "time": {
+                    "start": [12, 30],
+                    "stop": [1, 20],
+                    "time_format": 24
+                }
+            }
+        ]
+    },
+
+    "tue" : {
+        "times": [ [10, 50], [13, 20] ],
+        "classes": [
+            {
+                "course": ["CSE", 1201],
+                "instructor": "SZM",
+                "room": 202,
+                "time": {
+                    "start": [10, 50],
+                    "stop": [11, 40],
+                    "time_format": 24
+                }
+            },
+            {
+                "course": ["MATH", 1213],
+                "instructor": "TTP",
+                "room": 202,
+                "time": {
+                    "start": [11, 40],
+                    "stop": [12, 30],
+                    "time_format": 24
+                }
+            },
+            {
+                "course": ["PHY", 1213],
+                "instructor": "AAM",
+                "room": 202,
+                "time": {
+                    "start": [12, 30],
+                    "stop": [1, 20],
+                    "time_format": 24
+                }
+            }
+        ]
+    },
+
+    "wed" : {
+        "times": [ [10, 50], [13, 20] ],
+        "classes": [
+            {
+                "course": ["CSE", 1201],
+                "instructor": "SZM",
+                "room": 202,
+                "time": {
+                    "start": [10, 50],
+                    "stop": [11, 40],
+                    "time_format": 24
+                }
+            },
+            {
+                "course": ["MATH", 1213],
+                "instructor": "TTP",
+                "room": 202,
+                "time": {
+                    "start": [11, 40],
+                    "stop": [12, 30],
+                    "time_format": 24
+                }
+            },
+            {
+                "course": ["PHY", 1213],
+                "instructor": "AAM",
+                "room": 202,
+                "time": {
+                    "start": [12, 30],
+                    "stop": [1, 20],
+                    "time_format": 24
+                }
+            }
+        ]
+    },
+
+    "thu" : {
+        "ager-raat-chadraat-chilo": true
+    },
+
+    "fri" : {
+        "ager-raat-chadraat-chilo": true
+    }
+}

@@ -1,0 +1,1824 @@
+{
+    "e3c16aa0": {
+        "name": "Backbencher",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+
+    "d3a8c8e": {
+        "name": "Elon Musk",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+
+    "2203001": {
+        "name": "1",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203002": {
+        "name": "2",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203003": {
+        "name": "3",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203004": {
+        "name": "4",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203005": {
+        "name": "5",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203006": {
+        "name": "6",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203007": {
+        "name": "7",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203008": {
+        "name": "8",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203009": {
+        "name": "9",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203010": {
+        "name": "10",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203011": {
+        "name": "11",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203012": {
+        "name": "12",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203013": {
+        "name": "13",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203014": {
+        "name": "14",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203015": {
+        "name": "15",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203016": {
+        "name": "16",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203017": {
+        "name": "17",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203018": {
+        "name": "18",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203019": {
+        "name": "19",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203020": {
+        "name": "20",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203021": {
+        "name": "21",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203022": {
+        "name": "22",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203023": {
+        "name": "23",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203024": {
+        "name": "24",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203025": {
+        "name": "25",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203026": {
+        "name": "26",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203027": {
+        "name": "27",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203028": {
+        "name": "28",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203029": {
+        "name": "29",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203030": {
+        "name": "30",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203031": {
+        "name": "31",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203032": {
+        "name": "32",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203033": {
+        "name": "33",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203034": {
+        "name": "34",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203035": {
+        "name": "35",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203036": {
+        "name": "36",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203037": {
+        "name": "37",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203038": {
+        "name": "38",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203039": {
+        "name": "39",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203040": {
+        "name": "40",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203041": {
+        "name": "41",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203042": {
+        "name": "42",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203043": {
+        "name": "43",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203044": {
+        "name": "44",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203045": {
+        "name": "45",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203046": {
+        "name": "46",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203047": {
+        "name": "47",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203048": {
+        "name": "48",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203049": {
+        "name": "49",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203050": {
+        "name": "50",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203051": {
+        "name": "51",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203052": {
+        "name": "52",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203053": {
+        "name": "53",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203054": {
+        "name": "54",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203055": {
+        "name": "55",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203056": {
+        "name": "56",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203057": {
+        "name": "57",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203058": {
+        "name": "58",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203059": {
+        "name": "59",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203060": {
+        "name": "60",
+        "dept": "CSE",
+        "sec": "A",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203061": {
+        "name": "61",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203062": {
+        "name": "62",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203063": {
+        "name": "63",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203064": {
+        "name": "64",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203065": {
+        "name": "65",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203066": {
+        "name": "66",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203067": {
+        "name": "67",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203068": {
+        "name": "68",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203069": {
+        "name": "69",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203070": {
+        "name": "70",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203071": {
+        "name": "71",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203072": {
+        "name": "72",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203073": {
+        "name": "73",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203074": {
+        "name": "74",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203075": {
+        "name": "75",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203076": {
+        "name": "76",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203077": {
+        "name": "77",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203078": {
+        "name": "78",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203079": {
+        "name": "79",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203080": {
+        "name": "80",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203081": {
+        "name": "81",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203082": {
+        "name": "82",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203083": {
+        "name": "83",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203084": {
+        "name": "84",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203085": {
+        "name": "85",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203086": {
+        "name": "86",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203087": {
+        "name": "87",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203088": {
+        "name": "88",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203089": {
+        "name": "89",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203090": {
+        "name": "90",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203091": {
+        "name": "91",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203092": {
+        "name": "92",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203093": {
+        "name": "93",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203094": {
+        "name": "94",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203095": {
+        "name": "95",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203096": {
+        "name": "96",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203097": {
+        "name": "97",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203098": {
+        "name": "98",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203099": {
+        "name": "99",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203100": {
+        "name": "100",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203101": {
+        "name": "101",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203102": {
+        "name": "102",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203103": {
+        "name": "103",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203104": {
+        "name": "104",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203105": {
+        "name": "105",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203106": {
+        "name": "106",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203107": {
+        "name": "107",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203108": {
+        "name": "108",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203109": {
+        "name": "109",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203110": {
+        "name": "110",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203111": {
+        "name": "111",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203112": {
+        "name": "112",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203113": {
+        "name": "113",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203114": {
+        "name": "114",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203115": {
+        "name": "115",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203116": {
+        "name": "116",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203117": {
+        "name": "117",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203118": {
+        "name": "118",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203119": {
+        "name": "119",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203120": {
+        "name": "120",
+        "dept": "CSE",
+        "sec": "B",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203121": {
+        "name": "121",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203122": {
+        "name": "122",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203123": {
+        "name": "123",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203124": {
+        "name": "124",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203125": {
+        "name": "125",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203126": {
+        "name": "126",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203127": {
+        "name": "127",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203128": {
+        "name": "128",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203129": {
+        "name": "129",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203130": {
+        "name": "130",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203131": {
+        "name": "131",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203132": {
+        "name": "132",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203133": {
+        "name": "133",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203134": {
+        "name": "134",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203135": {
+        "name": "135",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203136": {
+        "name": "136",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203137": {
+        "name": "137",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203138": {
+        "name": "138",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203139": {
+        "name": "139",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203140": {
+        "name": "140",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203141": {
+        "name": "141",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203142": {
+        "name": "142",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203143": {
+        "name": "143",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203144": {
+        "name": "144",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203145": {
+        "name": "145",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203146": {
+        "name": "146",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203147": {
+        "name": "147",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203148": {
+        "name": "148",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203149": {
+        "name": "149",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203150": {
+        "name": "150",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203151": {
+        "name": "151",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203152": {
+        "name": "152",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203153": {
+        "name": "153",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203154": {
+        "name": "154",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203155": {
+        "name": "155",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203156": {
+        "name": "156",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203157": {
+        "name": "157",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203158": {
+        "name": "158",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203159": {
+        "name": "159",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203160": {
+        "name": "160",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203161": {
+        "name": "161",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203162": {
+        "name": "162",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203163": {
+        "name": "163",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203164": {
+        "name": "164",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203165": {
+        "name": "165",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203166": {
+        "name": "166",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203167": {
+        "name": "167",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203168": {
+        "name": "168",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203169": {
+        "name": "169",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203170": {
+        "name": "170",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203171": {
+        "name": "171",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203172": {
+        "name": "172",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203173": {
+        "name": "173",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203174": {
+        "name": "174",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203175": {
+        "name": "175",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203176": {
+        "name": "176",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203177": {
+        "name": "177",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203178": {
+        "name": "178",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203179": {
+        "name": "179",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    },
+    "2203180": {
+        "name": "180",
+        "dept": "CSE",
+        "sec": "C",
+        "series": 22,
+        "yr-sem": [
+            1,
+            2
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "room": "203",
+        "contains": ["lab"]
+    },
+
+    {
+        "room": "404",
+        "contains": ["c2"]
+    },
+
+    {
+        "room": "lab",
+        "contains": ["c1"]
+    }
+]
