@@ -1,0 +1,10 @@
+2024-09-26 20:20:27,449 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:20:27,449 - INFO - response = {'code': 5, 'name': 'Japan Sir'}
+2024-09-26 20:20:30,314 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:20:30,314 - DEBUG - from "attendance_record.py": Finalizing the class
+2024-09-26 20:20:30,314 - DEBUG - from "sas.py": self.attendance_record.is_class_finalized() = True
+2024-09-26 20:20:30,314 - DEBUG - from "attendance_record.py": self.class_finalized = True
+2024-09-26 20:20:30,314 - INFO - response = {'code': -5, 'name': 'Japan Sir'}
+2024-09-26 20:20:30,314 - INFO - Teacher checked out: Japan Sir
+2024-09-26 20:20:30,314 - DEBUG - from "sas.py": self.attendance_record.is_class_finalized() = True
+2024-09-26 20:20:30,315 - INFO - class finalized done

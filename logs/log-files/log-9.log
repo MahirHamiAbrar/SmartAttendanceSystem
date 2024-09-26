@@ -1,0 +1,2 @@
+2024-09-26 14:01:52,021 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 14:01:52,022 - ERROR - Unexpected error in main loop: Object of type SASCode is not JSON serializable

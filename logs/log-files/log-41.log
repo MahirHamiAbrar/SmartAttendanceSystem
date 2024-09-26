@@ -1,0 +1,62 @@
+2024-09-26 18:35:36,390 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 18:35:36,390 - DEBUG - 
+	class_start = datetime.time(10, 50)
+	class_end = datetime.time(11, 40)
+2024-09-26 18:35:36,390 - DEBUG - 
+	c_timedelta = datetime.timedelta(seconds=40800)
+	start_timedelta = datetime.timedelta(seconds=39000)
+	time_diff_start = datetime.timedelta(seconds=1800)
+2024-09-26 18:35:36,390 - DEBUG - Student is too late for the current class.
+2024-09-26 18:35:36,391 - DEBUG - 
+Checking next class:
+	next_class_start = datetime.time(11, 40)
+	next_time_diff_start = datetime.timedelta(days=-1, seconds=85200)
+2024-09-26 18:35:36,391 - INFO - response = {'code': 0, 'course': 'MATH-1213'}
+2024-09-26 18:35:36,391 - INFO - Attendance recorded for d3a8c8e in MATH-1213
+2024-09-26 18:35:40,018 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 18:35:40,018 - INFO - response = {'code': 5, 'name': 'Japan Sir'}
+2024-09-26 18:35:42,123 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 18:35:42,124 - INFO - response = {'code': -5, 'name': 'Japan Sir'}
+2024-09-26 18:35:42,124 - INFO - Teacher checked out: Japan Sir
+2024-09-26 18:45:08,659 - INFO - uid_data = {'UID': 'e3c16aa0', 'room': 404, 'dept': 'ECE'}
+2024-09-26 18:45:08,659 - DEBUG - 
+	class_start = datetime.time(10, 50)
+	class_end = datetime.time(11, 40)
+2024-09-26 18:45:08,659 - DEBUG - 
+	c_timedelta = datetime.timedelta(seconds=40800)
+	start_timedelta = datetime.timedelta(seconds=39000)
+	time_diff_start = datetime.timedelta(seconds=1800)
+2024-09-26 18:45:08,659 - DEBUG - Student is too late for the current class.
+2024-09-26 18:45:08,659 - DEBUG - 
+Checking next class:
+	next_class_start = datetime.time(11, 40)
+	next_time_diff_start = datetime.timedelta(days=-1, seconds=85200)
+2024-09-26 18:45:08,660 - INFO - response = {'code': 2, 'room': 203}
+2024-09-26 18:45:14,806 - INFO - uid_data = {'UID': 'c3af2fb7', 'room': 404, 'dept': 'ECE'}
+2024-09-26 18:45:14,807 - INFO - response = {'code': -5, 'name': "'Amar Meeting Ache' Ma'am"}
+2024-09-26 18:45:14,807 - INFO - Teacher checked out: 'Amar Meeting Ache' Ma'am
+2024-09-26 18:45:20,653 - INFO - uid_data = {'UID': 'c3af2fb7', 'room': 203, 'dept': 'CSE'}
+2024-09-26 18:45:20,653 - INFO - response = {'code': -5, 'name': "'Amar Meeting Ache' Ma'am"}
+2024-09-26 18:45:20,654 - INFO - Teacher checked out: 'Amar Meeting Ache' Ma'am
+2024-09-26 18:45:24,306 - INFO - uid_data = {'UID': 'c3af2fb7', 'room': 203, 'dept': 'CSE'}
+2024-09-26 18:45:24,306 - INFO - response = {'code': -5, 'name': "'Amar Meeting Ache' Ma'am"}
+2024-09-26 18:45:24,306 - INFO - Teacher checked out: 'Amar Meeting Ache' Ma'am
+2024-09-26 18:55:47,744 - INFO - uid_data = {'UID': '84581f', 'room': 203, 'dept': 'CSE'}
+2024-09-26 18:55:47,744 - INFO - response = {'code': 404}
+2024-09-26 19:42:03,998 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 19:42:03,999 - ERROR - Unexpected error in main loop: 'classes'
+Traceback (most recent call last):
+  File "/home/mhabrar/Documents/Academic/Lab-Projects/EEE-1252/Server_v2/sas.py", line 76, in run
+    response = self.process_uid(uid_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhabrar/Documents/Academic/Lab-Projects/EEE-1252/Server_v2/sas.py", line 48, in process_uid
+    return self.handle_leaving_student(uid)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhabrar/Documents/Academic/Lab-Projects/EEE-1252/Server_v2/sas.py", line 66, in handle_leaving_student
+    return self.attendance_record.process_leaving_student(self.routine_db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mhabrar/Documents/Academic/Lab-Projects/EEE-1252/Server_v2/attendance_record.py", line 237, in process_leaving_student
+    for class_info in routine_db[day_of_week]['classes']:
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'classes'
+

@@ -1,0 +1,2 @@
+2024-09-26 18:01:19,902 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 18:01:19,902 - ERROR - Unexpected error in main loop: descriptor 'time' for 'datetime.datetime' objects doesn't apply to a 'int' object

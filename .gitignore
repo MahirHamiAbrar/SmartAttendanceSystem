@@ -3,6 +3,6 @@ TODO.txt
 __pycache__
 .old
 
-MailingSystem/credentials/*
-logs/attendance_reports/*
-logs/log-files/*
+MailingSystem/credentials/*.json
+logs/attendance_reports/*/
+logs/log-files/*/

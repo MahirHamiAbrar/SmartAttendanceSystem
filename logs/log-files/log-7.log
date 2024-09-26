@@ -1,0 +1,627 @@
+2024-09-26 12:25:04,351 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 12:25:04,351 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,689 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:43,689 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,694 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:43,695 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,696 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:43,697 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,697 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:43,697 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,704 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:43,704 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,704 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:43,704 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,705 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:43,705 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,705 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:43,705 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,706 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:43,706 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,709 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:43,709 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,714 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,714 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,718 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,719 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,722 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,723 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,727 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,727 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,731 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,732 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,735 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,736 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,740 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,740 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,744 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,745 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,749 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,750 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,753 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,753 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,757 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,757 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,762 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,763 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,766 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,767 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,770 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,770 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,775 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,775 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,780 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,780 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,783 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,784 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,788 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,788 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,792 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,792 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,797 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,797 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,801 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,802 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,805 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,805 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,810 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,810 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,814 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,814 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,818 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,819 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,823 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,823 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,827 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,827 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,832 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,832 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,836 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,836 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,840 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,840 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,844 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,845 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,849 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,849 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,853 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,854 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,858 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,858 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,862 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,863 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,867 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,867 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,871 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,871 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,875 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,875 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,880 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,881 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,884 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,885 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,888 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,889 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,893 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,893 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,897 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,898 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,902 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,902 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,906 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,906 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,911 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,911 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,915 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,915 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,919 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,920 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,924 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,924 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,928 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,930 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,933 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,933 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,937 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,937 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,941 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,941 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,946 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,947 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,950 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,951 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,954 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,955 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,959 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,959 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,963 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,964 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,968 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,968 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,972 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,972 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,977 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,977 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,981 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,981 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,985 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,985 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,990 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,990 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,994 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,995 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:43,999 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:43,999 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,004 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,004 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,007 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,007 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,012 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,012 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,016 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,017 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,020 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,021 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,025 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,025 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,029 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,029 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,034 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,034 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,038 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,038 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,043 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,043 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,047 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,047 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,051 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,051 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,056 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,056 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,060 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,060 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,065 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,065 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,069 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,069 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,073 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,073 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,078 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,078 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,082 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,082 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,087 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,087 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,091 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,091 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,095 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,095 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,100 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,100 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,104 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,104 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,108 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,109 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,113 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,114 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,118 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,118 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,122 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,122 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,126 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,126 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,131 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,131 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,135 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,136 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,139 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,139 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,144 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,144 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,148 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,149 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,152 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,153 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,157 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,157 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,162 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,163 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,166 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,166 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,170 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,170 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,174 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,175 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,179 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,180 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,184 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,184 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,188 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,188 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,192 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,192 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,197 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,197 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,201 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,201 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,205 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,206 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,210 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,210 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,214 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,214 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,219 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,219 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,223 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,223 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,228 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,228 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,232 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,232 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,236 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,236 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,241 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,241 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,245 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,246 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,249 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,250 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,254 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,254 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,258 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,258 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,263 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,263 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,267 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,268 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,271 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,271 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,276 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,276 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,280 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,280 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,285 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,285 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,289 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,289 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,293 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,293 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,298 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,298 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,302 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,302 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,306 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,307 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,311 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,312 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,316 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,316 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,320 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,320 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,324 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,324 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,329 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,330 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,333 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,333 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,337 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,338 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,342 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,342 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,346 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,347 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,351 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,352 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,355 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,355 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,359 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,359 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,364 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,364 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,368 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,369 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,373 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,373 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,377 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,377 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,382 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,382 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,386 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,386 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,390 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,390 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,395 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,396 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,399 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,399 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,403 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,404 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,408 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,408 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,412 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,413 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,417 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,417 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,421 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,421 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,425 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,426 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,430 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,430 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,434 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,435 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,438 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,439 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,443 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,443 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,447 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,448 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,452 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,453 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,456 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,456 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,461 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,461 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,465 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,465 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,470 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,470 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,474 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,474 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,478 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,478 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,483 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,483 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,487 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,487 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,491 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,491 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,496 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,496 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,500 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,500 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,504 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,504 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,509 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,509 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,513 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,513 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,517 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,518 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,522 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,522 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,526 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,526 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,530 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,531 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,535 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,535 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,539 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,539 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,543 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,544 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,548 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,548 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,552 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,552 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,556 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,557 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,561 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,561 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,565 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,566 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,569 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,570 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,574 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,574 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,578 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,578 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,583 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,583 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,587 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,587 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,591 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,592 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,596 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,596 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,600 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,600 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,604 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,605 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,609 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,609 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,613 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,613 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,617 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,617 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,622 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,622 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,626 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,626 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,630 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,631 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,635 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,635 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,639 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,639 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,644 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,644 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,648 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,648 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,652 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,652 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,657 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,657 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,661 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,661 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,665 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,665 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,670 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,670 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,674 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,674 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,678 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,679 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,683 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,683 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,687 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,687 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,691 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,692 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,696 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,696 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,700 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,700 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,704 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,705 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,709 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,709 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,713 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,713 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,718 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,718 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,722 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,722 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,726 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,726 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,730 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,731 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,735 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,735 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,739 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,739 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,743 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,744 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,748 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,748 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,752 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,752 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,757 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,757 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,761 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,761 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,765 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,765 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,770 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,770 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,774 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,774 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,778 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,778 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,783 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,783 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,787 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,787 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,791 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,791 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,796 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,796 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,800 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,800 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,804 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,805 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,809 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,809 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,813 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,813 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,818 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,818 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,822 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,822 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,826 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,826 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,831 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,831 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,835 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,835 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,839 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,839 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,844 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,844 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,848 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,848 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,852 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,852 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,857 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,857 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,861 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,861 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,865 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,865 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,870 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,870 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,874 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,874 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,878 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,878 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,883 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,883 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,887 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,887 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,892 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,892 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,896 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,896 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,900 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,900 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,905 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,905 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,909 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,909 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,913 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,913 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,918 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,918 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,922 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,922 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,926 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,926 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,931 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,931 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,935 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,935 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,939 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,939 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,944 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,944 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,948 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,948 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,952 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,952 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,957 - WARNING - Invalid JSON data received: Extra data: line 1 column 2 (char 1)
+2024-09-26 12:34:44,957 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,958 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,958 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,958 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,958 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,963 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,964 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,974 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,974 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,978 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,978 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,978 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,979 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,981 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,981 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,984 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,985 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,985 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,986 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,988 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,988 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,988 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,989 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,990 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,990 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,991 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,991 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,992 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,992 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:44,992 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:44,992 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 12:34:46,042 - ERROR - Unexpected error in main loop: 'utf-8' codec can't decode byte 0xc4 in position 0: invalid continuation byte
+2024-09-26 12:34:46,044 - WARNING - Invalid JSON data received: Expecting value: line 1 column 1 (char 0)
+2024-09-26 12:34:46,044 - ERROR - Unexpected error in main loop: 'classes'
+2024-09-26 13:58:15,113 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 13:58:15,115 - ERROR - Unexpected error in main loop: 'classes'

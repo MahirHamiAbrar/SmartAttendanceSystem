@@ -1,0 +1,2 @@
+2024-09-26 12:23:15,393 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 12:23:15,393 - ERROR - Unexpected error in main loop: 'classes'

@@ -1,0 +1,6 @@
+2024-09-26 20:12:07,361 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:12:07,362 - INFO - response = {'code': 5, 'name': 'Japan Sir'}
+2024-09-26 20:12:09,386 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:12:09,386 - INFO - response = {'code': -5, 'name': 'Japan Sir'}
+2024-09-26 20:12:09,386 - INFO - Teacher checked out: Japan Sir
+2024-09-26 20:12:09,386 - INFO - class finalized done

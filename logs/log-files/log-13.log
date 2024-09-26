@@ -1,0 +1,8 @@
+2024-09-26 14:09:56,126 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 14:09:56,126 - INFO - response = {'code': 0, 'course': 'CSE-1201'}
+2024-09-26 14:09:56,126 - INFO - Attendance recorded for d3a8c8e in CSE-1201
+2024-09-26 14:10:34,829 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 14:10:34,829 - INFO - response = {'code': 5, 'name': 'Japan Sir'}
+2024-09-26 14:10:41,614 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 14:10:41,614 - INFO - response = {'code': -5, 'name': 'Japan Sir'}
+2024-09-26 14:10:41,614 - ERROR - Unexpected error in main loop: 'message'

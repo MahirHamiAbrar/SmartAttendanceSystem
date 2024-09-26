@@ -1,0 +1,10 @@
+2024-09-26 18:08:19,740 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 18:08:19,740 - DEBUG - 
+	class_start = datetime.time(9, 50)
+	class_end = datetime.time(10, 40)
+2024-09-26 18:08:19,740 - DEBUG - 
+	c_timedelta = datetime.timedelta(seconds=36600)
+	start_timedelta = datetime.timedelta(seconds=35400)
+	time_diff_start = datetime.timedelta(seconds=1200)
+2024-09-26 18:08:19,740 - INFO - response = {'code': 0, 'course': 'CSE-1201'}
+2024-09-26 18:08:19,740 - INFO - Attendance recorded for d3a8c8e in CSE-1201

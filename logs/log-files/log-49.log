@@ -1,0 +1,67 @@
+2024-09-26 20:24:44,678 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:24:44,678 - DEBUG - 
+	class_start = datetime.time(10, 50)
+	class_end = datetime.time(11, 40)
+2024-09-26 20:24:44,678 - DEBUG - 
+	c_timedelta = datetime.timedelta(seconds=40800)
+	start_timedelta = datetime.timedelta(seconds=39000)
+	time_diff_start = datetime.timedelta(seconds=1800)
+2024-09-26 20:24:44,678 - DEBUG - Student is too late for the current class.
+2024-09-26 20:24:44,678 - DEBUG - 
+Checking next class:
+	next_class_start = datetime.time(11, 40)
+	next_time_diff_start = datetime.timedelta(days=-1, seconds=85200)
+2024-09-26 20:24:44,679 - INFO - response = {'code': 0, 'course': 'MATH-1213'}
+2024-09-26 20:24:44,679 - INFO - Attendance recorded for d3a8c8e in MATH-1213
+2024-09-26 20:24:47,209 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:24:47,210 - INFO - response = {'code': 5, 'name': 'Japan Sir'}
+2024-09-26 20:24:49,509 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:24:49,510 - DEBUG - from "attendance_record.py": Finalizing the class
+2024-09-26 20:24:49,510 - DEBUG - from "attendance_record.py": Calling <bound method SmartAttendanceSystem.finalize_class of <sas.SmartAttendanceSystem object at 0x78f8f4a6acc0>>
+2024-09-26 20:24:49,510 - DEBUG - from "sas.py": self.attendance_record.is_class_finalized() = False
+2024-09-26 20:24:49,511 - INFO - Successfully converted attendance_record_20240926_202449.json to attendance_record_20240926_202449.csv
+2024-09-26 20:24:49,517 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-09-26 20:24:49,523 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-09-26 20:24:50,497 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2024-09-26 20:24:50,506 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-09-26 20:24:50,521 - DEBUG - URL being requested: POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+2024-09-26 20:24:51,634 - INFO - Attendance report (CSV) sent to mhabrarmts@gmail.com
+2024-09-26 20:24:51,634 - INFO - Class finalized
+2024-09-26 20:24:51,634 - DEBUG - from "attendance_record.py": self.class_finalized = True
+2024-09-26 20:24:51,634 - INFO - response = {'code': -5, 'name': 'Japan Sir'}
+2024-09-26 20:24:51,635 - INFO - Teacher checked out: Japan Sir
+2024-09-26 20:24:51,635 - DEBUG - from "sas.py": self.attendance_record.is_class_finalized() = True
+2024-09-26 20:24:51,635 - INFO - class finalized done
+2024-09-26 20:25:19,492 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:25:19,492 - DEBUG - from "attendance_record.py": self.class_finalized = True
+2024-09-26 20:25:19,492 - INFO - response = {'code': -5, 'name': 'Japan Sir'}
+2024-09-26 20:25:19,493 - INFO - Teacher checked out: Japan Sir
+2024-09-26 20:25:19,493 - DEBUG - from "sas.py": self.attendance_record.is_class_finalized() = True
+2024-09-26 20:25:19,493 - INFO - class finalized done
+2024-09-26 20:25:29,321 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:25:29,321 - DEBUG - from "attendance_record.py": self.class_finalized = True
+2024-09-26 20:25:29,321 - INFO - response = {'code': -5, 'name': 'Japan Sir'}
+2024-09-26 20:25:29,321 - INFO - Teacher checked out: Japan Sir
+2024-09-26 20:25:29,321 - DEBUG - from "sas.py": self.attendance_record.is_class_finalized() = True
+2024-09-26 20:25:29,321 - INFO - class finalized done
+2024-09-26 20:25:38,086 - INFO - uid_data = {'UID': 'e3c16aa0', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:25:38,086 - DEBUG - 
+	class_start = datetime.time(10, 50)
+	class_end = datetime.time(11, 40)
+2024-09-26 20:25:38,086 - DEBUG - 
+	c_timedelta = datetime.timedelta(seconds=40800)
+	start_timedelta = datetime.timedelta(seconds=39000)
+	time_diff_start = datetime.timedelta(seconds=1800)
+2024-09-26 20:25:38,086 - DEBUG - Student is too late for the current class.
+2024-09-26 20:25:38,086 - DEBUG - 
+Checking next class:
+	next_class_start = datetime.time(11, 40)
+	next_time_diff_start = datetime.timedelta(days=-1, seconds=85200)
+2024-09-26 20:25:38,086 - INFO - response = {'code': 0, 'course': 'MATH-1213'}
+2024-09-26 20:25:38,086 - INFO - Attendance recorded for e3c16aa0 in MATH-1213
+2024-09-26 20:25:46,304 - INFO - uid_data = {'UID': 'c3af2fb7', 'room': 203, 'dept': 'CSE'}
+2024-09-26 20:25:46,305 - DEBUG - from "attendance_record.py": self.class_finalized = True
+2024-09-26 20:25:46,305 - INFO - response = {'code': -5, 'name': "'Amar Meeting Ache' Ma'am"}
+2024-09-26 20:25:46,305 - INFO - Teacher checked out: 'Amar Meeting Ache' Ma'am
+2024-09-26 20:25:46,305 - DEBUG - from "sas.py": self.attendance_record.is_class_finalized() = True
+2024-09-26 20:25:46,305 - INFO - class finalized done

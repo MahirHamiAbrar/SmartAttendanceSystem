@@ -1,0 +1,17 @@
+2024-09-26 19:56:23,104 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 19:56:23,104 - DEBUG - 
+	class_start = datetime.time(10, 50)
+	class_end = datetime.time(11, 40)
+2024-09-26 19:56:23,104 - DEBUG - 
+	c_timedelta = datetime.timedelta(seconds=40800)
+	start_timedelta = datetime.timedelta(seconds=39000)
+	time_diff_start = datetime.timedelta(seconds=1800)
+2024-09-26 19:56:23,104 - DEBUG - Student is too late for the current class.
+2024-09-26 19:56:23,104 - DEBUG - 
+Checking next class:
+	next_class_start = datetime.time(11, 40)
+	next_time_diff_start = datetime.timedelta(days=-1, seconds=85200)
+2024-09-26 19:56:23,104 - INFO - response = {'code': 0, 'course': 'MATH-1213'}
+2024-09-26 19:56:23,104 - INFO - Attendance recorded for d3a8c8e in MATH-1213
+2024-09-26 19:56:25,850 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 19:56:25,850 - INFO - response = {'code': 501}

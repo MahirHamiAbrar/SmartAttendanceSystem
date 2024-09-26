@@ -1,0 +1,38 @@
+2024-09-26 21:28:02,089 - INFO - Preparing room 404 for upcoming class in 20 minutes:
+2024-09-26 21:28:16,378 - INFO - uid_data = {'UID': 'd3a8c8e', 'room': 203, 'dept': 'CSE'}
+2024-09-26 21:28:16,379 - DEBUG - 
+	class_start = datetime.time(10, 50)
+	class_end = datetime.time(11, 40)
+2024-09-26 21:28:16,379 - DEBUG - 
+	c_timedelta = datetime.timedelta(seconds=40800)
+	start_timedelta = datetime.timedelta(seconds=39000)
+	time_diff_start = datetime.timedelta(seconds=1800)
+2024-09-26 21:28:16,379 - DEBUG - Student is too late for the current class.
+2024-09-26 21:28:16,379 - DEBUG - 
+Checking next class:
+	next_class_start = datetime.time(11, 40)
+	next_time_diff_start = datetime.timedelta(days=-1, seconds=85200)
+2024-09-26 21:28:16,379 - INFO - response = {'code': 0, 'course': 'MATH-1213'}
+2024-09-26 21:28:16,379 - INFO - Attendance recorded for d3a8c8e in MATH-1213
+2024-09-26 21:28:16,379 - INFO - Preparing room 404 for upcoming class in 20 minutes:
+2024-09-26 21:28:21,053 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 21:28:21,053 - INFO - response = {'code': 5, 'name': 'Japan Sir'}
+2024-09-26 21:28:21,053 - INFO - Preparing room 404 for upcoming class in 20 minutes:
+2024-09-26 21:28:26,852 - INFO - uid_data = {'UID': '53fcbfe', 'room': 203, 'dept': 'CSE'}
+2024-09-26 21:28:26,853 - DEBUG - from "attendance_record.py": Finalizing the class
+2024-09-26 21:28:26,853 - DEBUG - from "attendance_record.py": Calling <bound method SmartAttendanceSystem.finalize_class of <sas.SmartAttendanceSystem object at 0x702152597530>>
+2024-09-26 21:28:26,853 - DEBUG - from "sas.py": self.attendance_record.is_class_finalized() = False
+2024-09-26 21:28:26,853 - INFO - Successfully converted attendance_record_20240926_212826.json to attendance_record_20240926_212826.csv
+2024-09-26 21:28:26,856 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-09-26 21:28:26,858 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-09-26 21:28:27,801 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2024-09-26 21:28:27,807 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-09-26 21:28:27,825 - DEBUG - URL being requested: POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+2024-09-26 21:28:28,895 - INFO - Attendance report (CSV) sent to mhabrarmts@gmail.com
+2024-09-26 21:28:28,896 - INFO - Class finalized
+2024-09-26 21:28:28,896 - DEBUG - from "attendance_record.py": self.class_finalized = True
+2024-09-26 21:28:28,896 - INFO - response = {'code': -5, 'name': 'Japan Sir'}
+2024-09-26 21:28:28,897 - INFO - Teacher checked out: Japan Sir
+2024-09-26 21:28:28,897 - DEBUG - from "sas.py": self.attendance_record.is_class_finalized() = True
+2024-09-26 21:28:28,897 - INFO - class finalized done
+2024-09-26 21:28:28,898 - INFO - Preparing room 404 for upcoming class in 20 minutes:
