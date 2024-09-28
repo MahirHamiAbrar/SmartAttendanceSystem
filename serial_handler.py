@@ -16,6 +16,7 @@ class SerialHandler:
             try:
                 if self.serial_port.in_waiting:
                     serial_data = self.serial_port.readline().decode('utf-8').strip()
+                    logging.debug(f"{serial_data = }")
                     return json.loads(serial_data)
             except serial.SerialException as e:
                 logging.error(f"Serial port error: {e}")

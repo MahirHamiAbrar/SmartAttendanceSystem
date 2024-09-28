@@ -75,7 +75,19 @@ def send_email_with_attachment(to: str, file_path: str, body: str) -> None:
     service = get_gmail_service()
     sender = "iotattendancesystem.g3@gmail.com"
     
-    message = create_message_with_attachment(sender, to, "Attendance Report", body, file_path)
+    if file_path:
+        message = create_message_with_attachment(sender, to, "Attendance Report", body, file_path)
+    else:
+        message = MIMEMultipart()
+        message['to'] = to
+        message['from'] = sender
+        message['subject'] = "Class Reminder"
+        
+        msg = MIMEText(body)
+        message.attach(msg)
+        
+        message = {'raw': base64.urlsafe_b64encode(message.as_bytes()).decode('utf-8')}
+        
     send_message(service, "me", message)
 
 

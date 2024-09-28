@@ -4,8 +4,8 @@
         "classes": [
             {
                 "course": ["CSE", 1201],
-                "instructor": "SZM",
-                "room": 203,
+                "instructor": "Albert Einstein",
+                "room": 404,
                 "time": {
                     "start": [9, 50],
                     "stop": [10, 40],
@@ -14,7 +14,7 @@
             },
             {
                 "course": ["MATH", 1213],
-                "instructor": "TTP",
+                "instructor": "Albert Einstein",
                 "room": 203,
                 "time": {
                     "start": [3, 51],
@@ -24,7 +24,7 @@
             },
             {
                 "course": ["PHY", 1213],
-                "instructor": "AAM",
+                "instructor": "Albert Einstein",
                 "room": 203,
                 "time": {
                     "start": [4, 40],
@@ -40,7 +40,7 @@
         "classes": [
             {
                 "course": ["CSE", 1201],
-                "instructor": "SZM",
+                "instructor": "Albert Einstein",
                 "room": 404,
                 "time": {
                     "start": [10, 50],
@@ -50,7 +50,7 @@
             },
             {
                 "course": ["MATH", 1213],
-                "instructor": "TTP",
+                "instructor": "Albert Einstein",
                 "room": 203,
                 "time": {
                     "start": [11, 40],
@@ -60,7 +60,7 @@
             },
             {
                 "course": ["PHY", 1213],
-                "instructor": "AAM",
+                "instructor": "Albert Einstein,",
                 "room": 203,
                 "time": {
                     "start": [12, 30],

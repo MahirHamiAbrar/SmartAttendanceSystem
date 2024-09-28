@@ -27,7 +27,11 @@ class AttendanceRecord:
         self.class_finalized = False
 
     def is_student_leaving(self, uid):
-        return any(student['id'] == uid for student in self.json_data_records['students'])
+        for student in self.json_data_records['students']:
+            if student['id'] == uid:
+                return student['name']
+        
+        return False
 
     def process_teacher(self, uid, teacher_info, on_teacher_leave_task: Callable | None = None):
         if not self.teacher_checked_in:
@@ -55,8 +59,10 @@ class AttendanceRecord:
             return {'code': SASCode.TeacherLeft, 'name': teacher_info['name']}
 
     def process_student(self, uid, room, student_info, routine_db):
-        current_time = datetime.time(11, 20, 00)  # Simulated current time
+        current_time = datetime.time(11, 10, 00)  # Simulated current time
         day_of_week = self.get_day_of_week()
+        
+        # 'Amar Meeting Ache' Ma'am
 
         # Check if it's a holiday or there are no classes scheduled for the day
         if (
@@ -84,7 +90,7 @@ class AttendanceRecord:
                 # Check if the student arrived within the 20-minute window around class start time
                 if datetime.timedelta(minutes=-20) <= time_diff_start <= datetime.timedelta(minutes=20):
                     if room != class_info['room']:
-                        return {'code': SASCode.StudentWrongRoom, 'room': class_info['room']}
+                        return {'code': SASCode.StudentWrongRoom, 'room': class_info['room'], 'name': student_info['name']}
                     
                     # Record student's attendance
                     self.json_data_records['students'].append({
@@ -92,11 +98,11 @@ class AttendanceRecord:
                         'id': uid
                     })
                     
-                    return {'code': SASCode.AttendanceAccepted, 'course': f"{class_info['course'][0]}-{class_info['course'][1]}"}
+                    return {'code': SASCode.AttendanceAccepted, 'course': f"{class_info['course'][0]}-{class_info['course'][1]}", 'name': student_info['name']}
 
                 # Handle early and late arrivals for current class
                 if time_diff_start < datetime.timedelta(minutes=-20):
-                    return {'code': SASCode.TooEarly}  # Too early
+                    return {'code': SASCode.TooEarly, 'name': student_info['name']}  # Too early
                 
                 if time_diff_start > datetime.timedelta(minutes=20):
                     logging.debug("Student is too late for the current class.")
@@ -115,7 +121,7 @@ class AttendanceRecord:
                         # Check if the student is within the 20-minute window of the next class
                         if datetime.timedelta(minutes=-20) <= next_time_diff_start <= datetime.timedelta(minutes=20):
                             if room != next_class_info['room']:
-                                return {'code': SASCode.StudentWrongRoom, 'room': next_class_info['room']}
+                                return {'code': SASCode.StudentWrongRoom, 'room': next_class_info['room'], 'name': student_info['name']}
                             
                             # Record attendance for the next class
                             self.json_data_records['students'].append({
@@ -123,13 +129,13 @@ class AttendanceRecord:
                                 'id': uid
                             })
                             
-                            return {'code': SASCode.AttendanceAccepted, 'course': f"{next_class_info['course'][0]}-{next_class_info['course'][1]}"}
+                            return {'code': SASCode.AttendanceAccepted, 'course': f"{next_class_info['course'][0]}-{next_class_info['course'][1]}", 'name': student_info['name']}
                         else:
                             logging.debug("Student is too late or too early for the next class as well.")
-                            return {'code': SASCode.TooLate}  # Too late for the next class as well
+                            return {'code': SASCode.TooLate, 'name': student_info['name']}  # Too late for the next class as well
 
                     # If there is no next class
-                    return {'code': SASCode.TooLate}  # Too late for the current class and no next class available
+                    return {'code': SASCode.TooLate, 'name': student_info['name']}  # Too late for the current class and no next class available
             
             except KeyError as e:
                 logging.error(f"Missing key in class info: {e}")
@@ -137,7 +143,7 @@ class AttendanceRecord:
 
         return {'code': SASCode.NoClasses}  # No matching class found
 
-    def process_leaving_student(self, routine_db):
+    def process_leaving_student(self, routine_db, name):
         current_time = datetime.datetime.now().time()
         day_of_week = self.get_day_of_week()
         
@@ -162,7 +168,7 @@ class AttendanceRecord:
                     logging.error(f"Missing key in class info: {e}")
                     continue
 
-        return {'code': SASCode.StudentLeft, 'cls_done': classes_done}
+        return {'code': SASCode.StudentLeft, 'cls_done': classes_done, 'name': name}
 
     def save_attendance_record(self):
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")

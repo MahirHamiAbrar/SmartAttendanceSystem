@@ -54,9 +54,10 @@ class SmartAttendanceSystem:
         except KeyError as e:
             logging.error(f"Missing key in UID data: {e}")
             return {'code': SASCode.ServerError, 'msg': 'Server Error!'}
-
-        if self.attendance_record.is_student_leaving(uid):
-            return self.handle_leaving_student(uid)
+        
+        leaving_student = self.attendance_record.is_student_leaving(uid)
+        if leaving_student:
+            return self.handle_leaving_student(leaving_student)
 
         if uid in self.teachers_db:
             return self.handle_teacher(uid, room, dept)
@@ -73,8 +74,8 @@ class SmartAttendanceSystem:
     def handle_student(self, uid, room, dept):
         return self.attendance_record.process_student(uid, room, self.students_db[uid], self.routine_db)
 
-    def handle_leaving_student(self, uid):
-        return self.attendance_record.process_leaving_student(self.routine_db)
+    def handle_leaving_student(self, name):
+        return self.attendance_record.process_leaving_student(self.routine_db, name)
     
     def get_day_of_week(self) -> str:
         day = datetime.datetime.now().strftime('%a').lower()
@@ -82,7 +83,7 @@ class SmartAttendanceSystem:
     
     def get_current_time(self):
         # ctime = datetime.datetime.now().time()
-        ctime = datetime.time(10, 30, 00)
+        ctime = datetime.time(10, 29, 00)
         return ctime
     
     def run(self):
@@ -97,10 +98,15 @@ class SmartAttendanceSystem:
                 
                 uid_data = self.serial_handler.read_serial_data()
                 
+                if type(uid_data) == type([]):
+                    logging.debug(f"Received debug info: {uid_data}. Ignoring...")
+                    continue
+                
                 if uid_data:
                     logging.info(f"{uid_data = }")
                     
                     response = self.process_uid(uid_data)
+                    response['to'] = uid_data['room']
                     logging.info(f"{response = }")
                     
                     self.serial_handler.send_serial_data(response)
